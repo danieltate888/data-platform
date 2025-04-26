@@ -1,0 +1,14 @@
+.env
+node_modules/
+dist/
+build/
+.DS_Store
+.env.local
+npm-debug.log
+/logs/combined.log
+/logs/error.log
+/data/
+/data-engineering/etl/metastore_db/
+horses.parquet
+derby.log
+.idea
