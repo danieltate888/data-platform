@@ -12,3 +12,15 @@ npm-debug.log
 horses.parquet
 derby.log
 .idea
+/data-science/lightgbm_model.pkl
+/data-science/logistic_model.pkl
+/data-science/neo4j_horse_features.csv
+/data-science/postgres_horse_features.csv
+/data-science/random_forest_model.pkl
+/data-science/scaler.pkl
+/data-science/X_features.csv
+/data-science/X_train.csv
+/data-science/X_val.csv
+/data-science/y_labels.csv
+/data-science/y_train.csv
+/data-science/y_val.csv
